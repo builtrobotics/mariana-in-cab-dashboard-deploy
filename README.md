@@ -1,2 +1,2 @@
-# mariana-in-cab-dashboard-deploy
+# mariana-sahara-deploy
 Repo for storing production in-cab dashboard releases.
